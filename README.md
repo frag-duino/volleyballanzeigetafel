@@ -1,10 +1,10 @@
 Volleycounter
 ======================
 
-http://frag-duino.de/index.php/projekte/48-volleyball-anzeigetafel-arduino-wtv020sd
+http://frag-duino.de/index.php/projekte/48-volleycounter-volleyball-punktetafel-arduino-wtv020sd
 
 Es handelt sich um das passende Repository zu dem Artikel "Volleyball-Anzeigetafel mit Sprachausgabe (Arduino und WTV020SD)":
-http://frag-duino.de/index.php/projekte/48-volleyball-anzeigetafel-arduino-wtv020sd
+http://frag-duino.de/index.php/projekte/48-volleycounter-volleyball-punktetafel-arduino-wtv020sd
 
 Pinbelegung der Arduino-Pins:
 
